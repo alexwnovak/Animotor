@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animotor", "Animotor\Animotor.csproj", "{E5DD1FFC-0525-4800-ADC4-C0F7307E99E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animotor.Harness", "Animotor.Harness\Animotor.Harness.csproj", "{AA7115F0-8ED3-472B-B396-CAE4F1F29798}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E5DD1FFC-0525-4800-ADC4-C0F7307E99E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5DD1FFC-0525-4800-ADC4-C0F7307E99E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5DD1FFC-0525-4800-ADC4-C0F7307E99E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7115F0-8ED3-472B-B396-CAE4F1F29798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7115F0-8ED3-472B-B396-CAE4F1F29798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7115F0-8ED3-472B-B396-CAE4F1F29798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7115F0-8ED3-472B-B396-CAE4F1F29798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
