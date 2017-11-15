@@ -8,7 +8,10 @@
         Title="Animotor Test Harness"
         Height="350"
         Width="525"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen"
+        Loaded="MainWindow_OnLoaded">
    <Grid>
+      <Button x:Name="Button"
+              Margin="50">Foo</Button>
    </Grid>
 </Window>

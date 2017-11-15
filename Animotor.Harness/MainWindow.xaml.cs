@@ -8,5 +8,10 @@ namespace Animotor.Harness
       {
          InitializeComponent();
       }
+
+      private async void MainWindow_OnLoaded( object sender, RoutedEventArgs e )
+      {
+         await Button.Animate( Property.Opacity );
+      }
    }
 }
